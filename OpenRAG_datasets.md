@@ -1,3 +1,5 @@
+# RAG датасеты из статьи OpenRAG
+
 *Sh. B. Islam, et. al* [OPEN-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models](https://arxiv.org/pdf/2410.01782) 10.2024
 
 | Single/multi hop | Task type   | Dataset name            | Year | Accessible                                                                                                   | Comment                                                                                             |
