@@ -1,2 +1,3 @@
-# RAG_data
-Reports on RAG datasets and benchmarks
+# RAG data
+
+Recent reports on RAG datasets and benchmarks.
